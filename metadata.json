@@ -1,0 +1,6 @@
+{
+  "name": "VrataMaster - Upravljanje Montažom Sobnih Vrata",
+  "description": "Moderna mobilna aplikacija za upravljanje nalozima, merenjem, izradom i montažom sobnih vrata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
